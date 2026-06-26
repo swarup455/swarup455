@@ -1,52 +1,113 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+```md
+<h1 align="center">Hi 👋, I'm Swarup Das</h1>
 
-###
+<h3 align="center">Full Stack Developer | Backend Developer | Competitive Programmer</h3>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<p align="center">
+  Passionate about building scalable web applications, backend systems, AI-powered products, and solving DSA problems.
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,express,react,nextjs,mongodb,firebase,tailwind,redux,git,github,docker,postman,vercel,vscode" />
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swarup455&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarup455&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
-###
+<br>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=swarup455&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://raw.githubusercontent.com/swarup455/swarup455/trophy-output/trophy.svg" height="170"/>
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+## 🟩 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/swarup455/swarup455/pacman-output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/swarup455/swarup455/pacman-output/pacman-contribution-graph.svg">
+
+  <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/swarup455/swarup455/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swarup455&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 💻 Competitive Programming
+
+- 🧩 500+ DSA problems solved
+- ⭐ LeetCode
+- ⭐ CodeChef
+- ⭐ HackerRank
+
+---
+
+## 🚀 Featured Projects
+
+### 🎤 Intervo
+AI-powered mock interview platform with voice interaction using Next.js, TypeScript, Vapi AI, Groq AI, Firebase and Tailwind CSS.
+
+### 📚 StudyBuddy
+Real-time collaborative workspace featuring shared notes, live chat, channels and collaborative editing using React, Node.js, Express, MongoDB, Socket.IO and Yjs.
+
+### 📰 NewsDesk
+AI-powered news aggregation platform with authentication, article summarization, category filtering and cloud media management.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/swarup455">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=swarup455&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+```
