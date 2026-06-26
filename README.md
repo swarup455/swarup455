@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Swarup Das</h1>
 
 <h3 align="center">Full Stack Developer | Backend Developer | Competitive Programmer</h3>
@@ -110,4 +109,3 @@ AI-powered news aggregation platform with authentication, article summarization,
 <img src="https://komarev.com/ghpvc/?username=swarup455&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
-```
