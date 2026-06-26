@@ -92,11 +92,11 @@ AI-powered news aggregation platform with authentication, article summarization,
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/swarupdas1905/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:swarup82546@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
