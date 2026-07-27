@@ -1,111 +1,27 @@
-<h1 align="center">Hi 👋, I'm Swarup Das</h1>
+# 💫 About Me:
+- 🔭 I'm currently working on **Full Stack & Backend Development projects using Next.js, Node.js, Express.js, MongoDB and TypeScript**<br><br>- 👯 I'm looking to collaborate on **Open Source, AI-powered applications and Full Stack projects**<br><br>- 🤝 I'm looking for help with **System Design, AWS, Docker and scalable backend architecture**<br><br>- 🌱 I'm currently learning **System Design, Docker, Redis, AWS and CI/CD**<br><br>- 💬 Ask me about **MERN Stack, Next.js, REST APIs, MongoDB, JWT Authentication, TypeScript and DSA**<br><br>- ⚡ Fun fact **Solved 500+ DSA problems and love building real-world software that solves practical problems.**
 
-<h3 align="center">Full Stack Developer | Backend Developer | Competitive Programmer</h3>
 
-<p align="center">
-  Passionate about building scalable web applications, backend systems, AI-powered products, and solving DSA problems.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarupdas1905) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lonelycoder1905) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swarup82546@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=swarup455&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=swarup455&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swarup455&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🚀 Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=swarup455&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,express,react,nextjs,mongodb,firebase,tailwind,redux,git,github,docker,postman,vercel,vscode" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swarup455&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarup455&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=swarup455&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://raw.githubusercontent.com/swarup455/swarup455/trophy-output/trophy.svg" height="170"/>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=swarup455&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=swarup455&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🟩 Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/swarup455/swarup455/pacman-output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/swarup455/swarup455/pacman-output/pacman-contribution-graph.svg">
-
-  <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/swarup455/swarup455/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swarup455&theme=tokyo-night&hide_border=true"/>
-
----
-
-## 💻 Competitive Programming
-
-- 🧩 500+ DSA problems solved
-- ⭐ LeetCode
-- ⭐ CodeChef
-- ⭐ HackerRank
-
----
-
-## 🚀 Featured Projects
-
-### 🎤 Intervo
-AI-powered mock interview platform with voice interaction using Next.js, TypeScript, Vapi AI, Groq AI, Firebase and Tailwind CSS.
-
-### 📚 StudyBuddy
-Real-time collaborative workspace featuring shared notes, live chat, channels and collaborative editing using React, Node.js, Express, MongoDB, Socket.IO and Yjs.
-
-### 📰 NewsDesk
-AI-powered news aggregation platform with authentication, article summarization, category filtering and cloud media management.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/swarup455">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/swarupdas1905/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:swarup82546@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=swarup455&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
